@@ -1,0 +1,8 @@
+{
+  "name": "garage_door_site",
+  "version": "0.1.0",
+  "dependencies": {
+    "hapi": "^8.2.0",
+    "request": "^2.58.0"
+  }
+}
